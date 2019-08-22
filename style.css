@@ -10,8 +10,15 @@ h4,
 h3,
 h2,
 h1 {
-	font-family: 'Rubik Mono one',
-	sans-serif;
+	font-family: 'Rubik Mono one',sans-serif;
 	font-weight:600;	
 }
 
+.navbar-brand img {width:150px}
+
+#footer {background:black;color:aqua}
+
+#lowerfooter {background:black;color:black}
+
+#lowerfooter i {font-size:60px:color: blue}
+}
