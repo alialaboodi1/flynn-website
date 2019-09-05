@@ -1,24 +1,19 @@
-﻿body{
-	 font-family: Stylish, sans-serif;
-     font-weight: 300;
-     
+body  {
+	font-family: 'Stylish', sana-serif;
+	font-weight:300;
+	
 }
-
 h6,
 h5,
 h4,
 h3,
 h2,
-h1 {
-	font-family: 'Rubik Mono one',sans-serif;
-	font-weight:600;	
+h1, {
+	font-family: 'Rubik Mono One', sana-serif;
+    font-weight:600;
+	
 }
 
-.navbar-brand img {width:150px}
+.navber-brand img {word-width:150px}
 
-#footer {background:black;color:aqua}
-
-#lowerfooter {background:black;color:black}
-
-#lowerfooter i {font-size:60px:color: blue}
-}
+footer {background-color:blue;color:#fff}
